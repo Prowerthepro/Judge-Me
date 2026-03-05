@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Social Screen Control</string>
+    <string name="accessibility_description">Monitors selected social app usage and applies accountability limits.</string>
+</resources>
